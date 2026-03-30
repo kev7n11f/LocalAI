@@ -33,6 +33,7 @@ require (
 	github.com/mudler/cogito v0.6.0
 	github.com/mudler/edgevpn v0.31.1
 	github.com/mudler/go-processmanager v0.0.0-20240820160718-8b802d3ecf82
+	github.com/mudler/memory v0.0.0-20251216220809-d1256471a6c2
 	github.com/onsi/ginkgo/v2 v2.27.3
 	github.com/onsi/gomega v1.38.3
 	github.com/otiai10/copy v1.14.1
@@ -55,8 +56,7 @@ require (
 	go.opentelemetry.io/otel/exporters/prometheus v0.61.0
 	go.opentelemetry.io/otel/metric v1.39.0
 	go.opentelemetry.io/otel/sdk/metric v1.39.0
-	google.golang.org/grpc v1.77.0
-	google.golang.org/protobuf v1.36.10
+	google.golang.org/grpc v1.79.3
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	oras.land/oras-go/v2 v2.6.0
@@ -65,9 +65,9 @@ require (
 require (
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
-	github.com/mudler/memory v0.0.0-20251216220809-d1256471a6c2 // indirect
 	github.com/swaggo/files/v2 v2.0.2 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
+	google.golang.org/protobuf v1.36.10 // indirect
 )
 
 require (
@@ -149,7 +149,7 @@ require (
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/image v0.25.0 // indirect
 	golang.org/x/net v0.48.0 // indirect; indirect (for websocket)
-	golang.org/x/oauth2 v0.33.0 // indirect
+	golang.org/x/oauth2 v0.34.0 // indirect
 	golang.org/x/telemetry v0.0.0-20251111182119-bc8e575c7b54 // indirect
 	golang.org/x/time v0.14.0 // indirect
 )
@@ -273,7 +273,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.1
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
-	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
+	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pierrec/lz4/v4 v4.1.2 // indirect
 	github.com/pkg/errors v0.9.1
@@ -326,7 +326,7 @@ require (
 	golang.zx2c4.com/wireguard v0.0.0-20250521234502-f333402bd9cb // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
 	gonum.org/v1/gonum v0.16.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20251022142026-3a174f9686a8 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20251202230838-ff82c1b0f217 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	howett.net/plist v1.0.2-0.20250314012144-ee69052608d9 // indirect
