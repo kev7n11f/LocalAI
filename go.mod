@@ -281,7 +281,7 @@ require (
 	go.uber.org/mock v0.5.2 // indirect
 	go.yaml.in/yaml/v2 v2.4.4
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/image v0.25.0 // indirect
+	golang.org/x/image v0.38.0 // indirect
 	golang.org/x/net v0.53.0 // indirect; indirect (for websocket)
 	golang.org/x/oauth2 v0.36.0
 	golang.org/x/telemetry v0.0.0-20260409153401-be6f6cb8b1fa // indirect
