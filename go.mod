@@ -137,7 +137,7 @@ require (
 	github.com/blevesearch/zapx/v15 v15.4.2 // indirect
 	github.com/blevesearch/zapx/v16 v16.2.8 // indirect
 	github.com/bwmarrin/discordgo v0.29.0 // indirect
-	github.com/cloudflare/circl v1.6.1 // indirect
+	github.com/cloudflare/circl v1.6.3 // indirect
 	github.com/cyphar/filepath-securejoin v0.5.1 // indirect
 	github.com/dslipak/pdf v0.0.2 // indirect
 	github.com/emersion/go-imap/v2 v2.0.0-beta.5 // indirect
