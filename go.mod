@@ -137,7 +137,7 @@ require (
 	github.com/blevesearch/zapx/v15 v15.4.2 // indirect
 	github.com/blevesearch/zapx/v16 v16.2.8 // indirect
 	github.com/bwmarrin/discordgo v0.29.0 // indirect
-	github.com/cloudflare/circl v1.6.1 // indirect
+	github.com/cloudflare/circl v1.6.3 // indirect
 	github.com/cyphar/filepath-securejoin v0.5.1 // indirect
 	github.com/dslipak/pdf v0.0.2 // indirect
 	github.com/emersion/go-imap/v2 v2.0.0-beta.5 // indirect
@@ -147,8 +147,8 @@ require (
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/eritikass/githubmarkdownconvertergo v0.1.10 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
-	github.com/go-git/go-billy/v5 v5.6.2 // indirect
-	github.com/go-git/go-git/v5 v5.16.4 // indirect
+	github.com/go-git/go-billy/v5 v5.8.0 // indirect
+	github.com/go-git/go-git/v5 v5.18.0 // indirect
 	github.com/go-telegram/bot v1.17.0 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gocolly/colly v1.2.0 // indirect
